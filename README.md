@@ -41,6 +41,35 @@ The longer-term product direction includes exploring:
 - Personalized financial insights
 
 These capabilities are part of the product roadmap and are not represented here as fully launched features.
+---
+
+## 🖥️ Product Preview
+
+### Bill Overview
+
+![TheBillQuest bill overview](1-Hero-dashboard.png)
+
+A centralized dashboard concept for viewing upcoming bills, due dates, bill activity, and future reward opportunities.
+
+### Core Product Experience
+
+![TheBillQuest product features](2-Features-dashboard.png)
+
+The product experience brings bill organization, reminders, financial insights, and document management into one centralized view.
+
+### Rewards Concept
+
+![TheBillQuest rewards concept](3-Rewards.png)
+
+A longer-term rewards concept designed around recognizing consistent, on-time payment behavior.
+
+### Bill Categories
+
+![TheBillQuest bill categories](4-Bill-categories.png)
+
+The product vision spans utilities, credit cards, healthcare, insurance, subscriptions, housing, loans, phone and internet, with room to expand into additional recurring expenses.
+
+---
 
 ---
 
